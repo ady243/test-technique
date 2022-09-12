@@ -1,5 +1,4 @@
 import { useNavigate } from "react-router-dom";
-import { Header } from "../../components/Header";
 
 const HomepageContainer = () => {
   const navigate = useNavigate();
@@ -26,7 +25,7 @@ const HomepageContainer = () => {
           }}
         >
           <div style={{ marginBottom: 70, fontSize: 30 }}>
-            Test technique alternant Flying For You
+            <h1>BasicApp Moovies</h1>
           </div>
           <button
             style={{
