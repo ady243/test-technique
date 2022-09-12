@@ -25,7 +25,7 @@ const HomepageContainer = () => {
           }}
         >
           <div style={{ marginBottom: 70, fontSize: 30 }}>
-            <h1>BasicApp Moovies</h1>
+            <h1>BasicApp Movies</h1>
           </div>
           <button
             style={{

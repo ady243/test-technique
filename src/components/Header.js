@@ -1,7 +1,7 @@
 import { useAuth } from "../hooks/useAuth";
 
 export const Header = () => {
-  const { user, logout } = useAuth();
+  const { logout } = useAuth();
 
   return (
     <header className="header__navbar">
